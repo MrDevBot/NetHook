@@ -1,0 +1,7 @@
+C:\Users\Aelder1\source\repos\NetHook\bin\Debug\NetHook.exe.config
+C:\Users\Aelder1\source\repos\NetHook\bin\Debug\NetHook.exe
+C:\Users\Aelder1\source\repos\NetHook\bin\Debug\NetHook.pdb
+C:\Users\Aelder1\source\repos\NetHook\obj\Debug\NetHook.csprojAssemblyReference.cache
+C:\Users\Aelder1\source\repos\NetHook\obj\Debug\NetHook.csproj.CoreCompileInputs.cache
+C:\Users\Aelder1\source\repos\NetHook\obj\Debug\NetHook.exe
+C:\Users\Aelder1\source\repos\NetHook\obj\Debug\NetHook.pdb

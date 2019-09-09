@@ -1,0 +1,6 @@
+C:\Users\Aelder1\source\repos\NetHook\bin\Release\NetHook.exe.config
+C:\Users\Aelder1\source\repos\NetHook\bin\Release\NetHook.exe
+C:\Users\Aelder1\source\repos\NetHook\bin\Release\NetHook.pdb
+C:\Users\Aelder1\source\repos\NetHook\obj\Release\NetHook.csproj.CoreCompileInputs.cache
+C:\Users\Aelder1\source\repos\NetHook\obj\Release\NetHook.exe
+C:\Users\Aelder1\source\repos\NetHook\obj\Release\NetHook.pdb
